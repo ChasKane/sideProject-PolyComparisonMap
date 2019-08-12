@@ -1,0 +1,5 @@
+export const purple = "rgba(103, 0, 137, 1)"
+export const blue   = "rgba(0, 185, 251, 1)"
+export const red    = "rgba(163, 0, 2, 1)"
+export const white  = "rgba(247, 252, 255, 1)"
+export const black  = "rgba(23, 33, 33, 1)"
